@@ -1,0 +1,2 @@
+* To run a project, you go to the project folder and open cmd in that directory and
+  type 'ng serve'

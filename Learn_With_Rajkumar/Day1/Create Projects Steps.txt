@@ -1,0 +1,11 @@
+Step 1 - Open cmd and type the command 'node -v' to check the Node version.
+
+Step 2 - Then type the command 'npm install @angular/cli --global' to install the latest Angular
+         wait until its complete.
+
+Step 3 - Make directory.
+
+Step 4 - Create a Project 'ng new (Project name)' and wait until creating the project.
+
+Step 5 - Type the command 'code .' to open the project in VSCode.
+
