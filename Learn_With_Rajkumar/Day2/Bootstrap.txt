@@ -1,0 +1,6 @@
+Installation
+
+> Open cmd in the file directory
+  Terminate the current project
+  type - 'npm i bootstrap@4.5.0 jquery --save'
+  type - 'ng s' to re run the project on the browser

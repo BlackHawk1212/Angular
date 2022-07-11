@@ -1,0 +1,16 @@
+* Headed to the directory and create Angular Project using 'ng new "Project_Name"' in cmd.
+  My case 'ng new MyApp'
+
+* Launch the project on Web Browser
+  'ng serve --open'
+
+Modified Files
+> app.component.html
+> app.component.ts
+> grid.components.ts
+> app.module.ts
+> grid.component.html
+> student.ts
+> calc.service.ts
+> calcManager.ts
+> angular.json -> Added Styles and Scripts

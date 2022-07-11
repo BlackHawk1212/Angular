@@ -1,0 +1,15 @@
+Generate new Grid Component
+> Open Terminal in VSCode and Select cmd
+  type - 'ng g component components/grid --dry-run'
+
+  type - 'ng g component components/grid'
+  this time it creates a folder called components
+
+Creating a model class student
+> Open Terminal and select cmd
+  type - 'ng g class models/student'
+
+Creating a service 
+> Open Terminal and select cmd
+  type - 'ng g service service/calc'
+

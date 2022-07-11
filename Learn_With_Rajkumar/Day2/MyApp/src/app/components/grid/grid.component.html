@@ -1,0 +1,23 @@
+<div>
+    <h4> My Student List - {{ts}} -- {{result}} </h4>
+    <div>
+        <table border="1">
+            <tr>
+                <td>StudentId</td>
+                <td>StudentName</td>
+                <td>StudentEmail</td>
+                <td>Action</td>
+            </tr>
+            <tr *ngFor="let stu of stds">
+                <td>{{stu.id}}</td>
+                <td>{{stu.name}}</td>
+                <td>{{stu.email}}</td>
+                <td><button (click)="doHandleDelete(stu.id)">X</button></td>
+            </tr>
+        </table>
+        <div>
+            <label>Add New Student</label>
+            <button type="button" class="btn btn-info" (click)="doAddNewStudent()">Add</button>
+        </div>
+    </div>
+</div>
