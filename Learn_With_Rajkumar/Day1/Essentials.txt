@@ -1,2 +1,9 @@
 * To run a project, you go to the project folder and open cmd in that directory and
   type 'ng serve'
+
+Run a File
+* Convert TypeScript file to JavaScript file
+  type 'tsc filename.ts'
+
+* Run JavaScript file
+  type 'Node filename.js'
