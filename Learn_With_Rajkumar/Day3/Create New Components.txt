@@ -1,0 +1,15 @@
+Creating Navigational Component
+> Open Terminal in VSCode and Select cmd
+  type - 'ng g component components/login' for login components
+  type - 'ng g component components/dashboard' for dashboard components
+  type - 'ng g component components/about' for aboutus components
+  type - 'ng g component components/pageNotFound' for page-not-found components
+  type - 'ng g component components/navBar' for nav-bar components
+
+Generating Service
+> Open Terminal in VSCode and Select cmd
+  type - 'ng g service service/authGuard' for Authentication Service
+  type - 'ng g pipe service/salutation' for custom pipe
+  type - 'ng g service service/products' product service for promise
+  
+

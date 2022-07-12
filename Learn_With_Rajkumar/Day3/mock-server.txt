@@ -1,0 +1,8 @@
+Create a folder and open cmd in the directory
+type - npm install -g json-server
+
+Create a json file - db.json
+
+to Start the JSON Server
+type - json-server --watch db.json
+

@@ -1,0 +1,13 @@
+> Removed content in app.component.html (Day2) -> READ.MD
+> app-routing.modules.ts
+> app.component.html
+> app.component.css
+> login.component.html
+> login.component.ts
+> dashboard.component.html
+> dashboard.component.css
+> auth-guard-service.ts
+> nav-bar.component.html
+> salutation.pipe.ts
+> Create a file products.ts in model
+> product.service.ts
