@@ -1,0 +1,13 @@
+<p>dashboard works!</p>
+<h1>My Bank Card # - {{value | uppercase}}</h1>
+<h2>{{date}}</h2>
+<h2>{{date | date}}</h2>
+<h2>{{date | date:'yyyy/MM/dd'}}</h2>
+<h3>{{name | salutation: 'a' | uppercase}}</h3>
+<button (click)="doPromise()">Promise</button>
+<button (click)="addProducts()">Add Products</button>
+<button (click)="fetchProdStream()">Fetch Product Stream</button>
+<button (click)="processLargeArray()">Process Large Array</button>
+<div *ngFor="let prod of products">
+    {{prod.id}}--{{prod.name}}--{{prod.cost}}--{{prod.quantity}}
+</div>

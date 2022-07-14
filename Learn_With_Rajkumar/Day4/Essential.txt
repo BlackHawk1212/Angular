@@ -1,0 +1,3 @@
+For build the project again
+type - ng build
+

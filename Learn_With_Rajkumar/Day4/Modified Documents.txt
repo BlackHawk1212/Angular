@@ -1,0 +1,7 @@
+> product.service.ts
+> dashboard.component.html
+> dashboard.component.ts
+> datacom.service.ts
+> nav-bar.component.html
+> nav-bar.component.ts
+> about.component.ts

@@ -1,0 +1,5 @@
+Generating Service
+> Open Terminal in VSCode and Select cmd
+  type - 'ng g service service/datacom' for Data Communication Service
+  
+
